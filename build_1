@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<style>
+	h3 {
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: underline;
+	line-height: 0.6;
+}
+	p {
+	font-family: Arial;
+}
+	h1 {
+	test-align: center;
+	font-weight: bold;
+}
+	h5 {
+	font-family: Arial;
+	line-height: 0.6;
+	font-weight: bold;
+}
+</style>
+
+
+
+<h1>Christopher Kelly</h1>
+<p> C: 704.315.4828 | <a href=”mailto:chrisk742@gmail.com” target=“_blank”>chrisk742@gmail.com</a> <a href=“http://www.linkedin.com/in/christopher-kelly1963” target=“_blank”>Christopher Kelly</a></p>
+
+<hr>
+
+<h3>Summary</h3>
+<p>A self taught IT professional transitioning into Cloud Architecture with experience in Database setup, Cloud Architect fundamentals, sales, and customer satisfaction. Looking to leverage my skills to interpret Cloud Computing technologies and Cloud Engineering principles.</p>
+
+<hr>
+
+<h3>Experience</h3>
+
+<p>Code Ninjas - Lexington,SC</p>
+<h5>Coding Instructor 2/2022- </h5>
+<ul>
+<li>Assist kids with coding projects such as game building, app development, and robotics</li>
+<li>Guided assistance using Scratch, Javascript, and C#</li>
+<li>Oversee student intake while providing face-to-face customer service</li>
+</ul>
+
+<p>Spectrum - Charlotte,NC</p>
+<h5>Technical Support 08/2021- 10/2021</h5>
+<ul>
+<li>Facilitated router pings for network connectivity for end user support</li>
+<li>Delivered technical support for wireless networks via VOIP for 500 + businesses, using AgentOs, Avaya, and AppBar.</li>
+<li>Configured basic modem and router types like Motorola, Technicolor, Arris and Askey</li>
+<li>Worked with internal IT resources to communicate technical and non technical solutions, architecture, and implementation of new features and system upgrades.</li>
+</ul>
+
+<p>McClerklin Skin and Laser - Columbia, SC</p>
+<h5>Technical Support 08/2017- 11/2018</h5>
+<ul>
+<li>Configured all hardware devices and software settings to optimize network performance.</li>
+<li>Delivered on-site technical support following software implementation and worked with managers to suggest  product upgrades and changes.</li>
+<li>Configured new employee work stations, including all hardware, software and peripheral devices.</li>
+</ul>
+
+<hr>
+
+<h3>Education</h3>
+<ul>
+<li>Diploma - 2011</li>
+</ul>
+<p>Dutch Fork High School</p>
+
+<hr>
+
+<h3>Technical Skills</h3>
+<ul>
+<li>Identity and Access Management</li>
+<li>AWS & Oracle Cloud Architect & Implementation</li> 
+<li>Python, Javascript, HTML, HTML5, C# & CSS Programming</li>
+<li>Windows OS/ Mac OS</li>
+<li>Oracle Database Management & Setup</li> 
+<li>SQL</li>
+<li>Active Directory</li>
+<li>ServiceNow</li>
+<li>Circleci</li>
+<li>Github</li>
+</ul>
+
+<hr>
+
+<h3>Certifications & Training</h3>
+<ul>
+<li>AWS Certified Cloud Practitioner (July 2021)</li>
+<li>Oracle Cloud Infrastructure Foundations 2021 Certified Associate (November 2021)</li>
+<li>AWS Certified Solutions Architect ( In progress) </li>
+
+</body>
+</html>
